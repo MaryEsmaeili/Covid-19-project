@@ -1,0 +1,6 @@
+datadir: 'programing 2/'
+patients: 'C:\Users\LENOVO\programing 2\02\10k_synthea_covid19_csv\patients.csv'
+observations: 'C:\Users\LENOVO\programing 2\02\10k_synthea_covid19_csv\observations.csv'
+encounters: 'C:\Users\LENOVO\programing 2\02\10k_synthea_covid19_csv\encounters.csv'
+careplans: 'C:\Users\LENOVO\programing 2\02\10k_synthea_covid19_csv\careplans.csv'
+conditions: 'C:\Users\LENOVO\programing 2\02\10k_synthea_covid19_csv\conditions.csv'
